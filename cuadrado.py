@@ -7,4 +7,3 @@ def calcular_cuadrado(lado):
     perimetro = 4 * lado
     return f"Área: {area}, Perímetro: {perimetro}"
 
-# Ejemplo de uso
